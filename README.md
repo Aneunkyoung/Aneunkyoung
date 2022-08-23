@@ -1,6 +1,6 @@
 <div align="center"> 
-  <img src="https://user-images.githubusercontent.com/111840622/186106327-34473f00-e03d-4317-968d-3b4e439afdea.jpeg" width="350">
-
+  <img src="https://user-images.githubusercontent.com/111840622/186112498-79a0b3d3-19c3-46ef-a656-2df9676618ad.png" width="500">
+  <br><br>
   <div>
     <a href=""><img src="https://img.shields.io/badge/Blog-ED1965?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
     <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=lindsayan991128@gmail.com"><img src="https://img.shields.io/badge/lindsayan991128@gmail.com-EA4335?style=flat-square&logo=GMail&logoColor=white"/></a>
