@@ -1,8 +1,6 @@
-
-
-##
-
 <div align="center"> 
+  <img src="https://user-images.githubusercontent.com/111840622/186106327-34473f00-e03d-4317-968d-3b4e439afdea.jpeg" width="200">
+  
   <div>
     <h5> Contact </h5>
     <a href=""><img src="https://img.shields.io/badge/Blog-ED1965?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
