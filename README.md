@@ -2,7 +2,7 @@
   <div>
     <h5> Contact </h5>
     <a href=""><img src="https://img.shields.io/badge/Blog-ED1965?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
-    <a href="lindsayan991128@gmail.com"><img src="https://img.shields.io/badge/lindsayan991128@gmail.com-EA4335?style=flat-square&logo=GMail&logoColor=white"/></a>
+    <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=lindsayan991128@gmail.com"><img src="https://img.shields.io/badge/lindsayan991128@gmail.com-EA4335?style=flat-square&logo=GMail&logoColor=white"/></a>
   </div>
 
   ##
