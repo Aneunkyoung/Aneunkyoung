@@ -1,6 +1,6 @@
 <div align="center"> 
   <img src="https://user-images.githubusercontent.com/111840622/186112498-79a0b3d3-19c3-46ef-a656-2df9676618ad.png" width="500">
-  <br><br><br><br>
+  <br><br><br>
   
   <div>
     <img src="https://img.shields.io/badge/Java-A100FF?style=for-the-badge&logo=Java&logoColor=white"/>
